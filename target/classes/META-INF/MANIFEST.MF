@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
+Implementation-Title: spring_boot_tut_creating_first_project
+Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: Le Mercure
+Implementation-Vendor-Id: demo.boot
 Build-Jdk: 1.8.0_66
+Implementation-URL: http://maven.apache.org
 Created-By: Maven Integration for Eclipse
 
